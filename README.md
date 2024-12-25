@@ -37,6 +37,4 @@ Interactive console-based user interface.
 
 
 
-
-
-
+![task2image](https://github.com/user-attachments/assets/3a0776bb-4796-4b28-aa81-84e341401255)
